@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Screenshot
 
-![screen shot of full screen webpage](https://github.com/Eileenpk/portfolio/blob/main/images/Screenshot-full-website.png)
-![screen shot of mobile webpage](https://github.com/Eileenpk/portfolio/blob/main/images/Screenshot-mobile.png)
+![screen shot of full screen webpage](https://github.com/Eileenpk/portfolio/blob/main/img/Screenshot-full-website.png)
+![screen shot of mobile webpage](https://github.com/Eileenpk/portfolio/blob/main/img/Screenshot-mobile.png)
 ### Links
 
 - Solution URL: [GitHub](https://github.com/Eileenpk/portfolio)
