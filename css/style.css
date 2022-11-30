@@ -406,7 +406,7 @@ header {
     max-width: 1000px;
     display: grid;
     grid-gap: 2em;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, calc(1fr - 10vw)));
 }
 
 .portfolio__item {
